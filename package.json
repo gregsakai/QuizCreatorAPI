@@ -1,0 +1,28 @@
+{
+  "name": "QuizCreatorAPI",
+  "version": "1.0.0",
+  "description": "Backend for QuizCreator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregsakai/QuizCreatorAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gregsakai/QuizCreatorAPI/issues"
+  },
+  "homepage": "https://github.com/gregsakai/QuizCreatorAPI#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
